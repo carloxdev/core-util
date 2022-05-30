@@ -1,3 +1,3 @@
 # StxBaseLibs
 
-Base libraries for other more complex projects
+Base libraries for more complex projects
